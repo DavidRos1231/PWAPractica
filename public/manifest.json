@@ -1,6 +1,6 @@
 {
-    "name": "PWA con Node - David Rosales de Jesus",
-    "short_name": "PWA-Nod",
+    "name": "PWA con Node",
+    "short_name": "PWA-Node",
     "description": "Construida con Node",
     "icons": [
       {
